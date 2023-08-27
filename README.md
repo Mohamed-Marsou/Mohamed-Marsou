@@ -6,7 +6,7 @@
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML_5-blue">
  <img alt="Static Badge" src="https://img.shields.io/badge/CSS_3-blue">
- <img alt="Static Badge" src="https://img.shields.io/badge/SCSS_3-pink">
+ <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-pink">
  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
   <img alt="Static Badge" src="https://img.shields.io/badge/ES6-yellow">
  <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-blue">
